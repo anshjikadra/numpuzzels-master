@@ -252,6 +252,7 @@ class _puzzelState extends State<puzzel> {
                   l[8] = l[7];
                   l[7] = "";
                   win();
+                  //anshjikadra
                 }
                 setState(() {});
               },
